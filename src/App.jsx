@@ -1,5 +1,5 @@
 import { BrowserRouter } from "react-router-dom"
-import {About , Contan}
+import {About , Contact , Experience , Feedbacks , Hero , Loader , Navbar , Tech , Works} from
 function App() {
 
   return (

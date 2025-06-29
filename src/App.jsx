@@ -5,7 +5,7 @@ function App() {
   return (
     <>     
       <BrowserRouter>
-        <div className="real">
+        <div className="relative z-0 bg-primary">
 
         </div>
       </BrowserRouter>          

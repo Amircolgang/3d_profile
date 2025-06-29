@@ -1,12 +1,14 @@
 import { BrowserRouter } from "react-router-dom"
-import {About , Contact , Experience , Feedbacks , Hero , Loader , Navbar , Tech , Works} from
+import {About , Contact , Experience , Feedbacks , Hero , Loader , Navbar , Tech , Works} from './components'
 function App() {
 
   return (
     <>     
-      <div>
-          <h1>3D Profile</h1>
-        </div>  
+      <BrowserRouter>
+        <div className="real">
+
+        </div>
+      </BrowserRouter>          
     </>
   )
 }

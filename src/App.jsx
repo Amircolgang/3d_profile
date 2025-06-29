@@ -1,4 +1,4 @@
-import BrowserRouter 
+import { BrowserRouter } from "react-router-dom"
 
 function App() {
 
